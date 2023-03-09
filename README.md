@@ -29,3 +29,5 @@ Skills & Technologies: Python, JavaScript, HTML, CSS, React, Redux, Express, Fla
 
 I have produced several high-fidelity projects applying my knowledge of the PERN stack, including a pixel-perfect Amazon clone that leverages AWS S3 to implement efficient user image uploads. Additionally I designed a meticulous SoundCloud clone that I built with a group of engineers to replicate a seamless audio streaming web service.
 
+ <br>
+  [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanharden)](https://github.com/ryanharden/github-readme-stats)
