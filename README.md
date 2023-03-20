@@ -19,6 +19,7 @@ Skills & Technologies: Python, JavaScript, HTML, CSS, React, Redux, Express, Fla
   <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"></a>
+  <a hreft="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
