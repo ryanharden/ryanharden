@@ -12,7 +12,7 @@
 
 ---
 
-Skills & Technologies: Python, JavaScript, HTML, CSS, React, Redux, Express, Flask, AWS, SQLAlchemy, Sequelize, PostgreSQL
+Skills & Technologies: Python, JavaScript, HTML, CSS, React, Redux, Express, Flask, AWS S3, SQLAlchemy, Sequelize, PostgreSQL
   <br>
   <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
