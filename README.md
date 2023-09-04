@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <h1>Hi, my name is Ryan</h1>
+  <h1>Hi, I'm Ryan!</h1>
   <div style="display: flex; justify-content: center;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=4000&pause=1000&color=03A8F7&vCenter=true&width=435&lines=Full+Stack+Software+Engineer" alt="Typing SVG" /></a>
   </div>
