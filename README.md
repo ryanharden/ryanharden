@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Hi, I'm Ryan!</h1>
   <div style="display: flex; justify-content: center;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=4000&pause=1000&color=03A8F7&vCenter=true&width=435&lines=Full+Stack+Software+Engineer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=4000&pause=1000&color=03A8F7&vCenter=true&width=435&lines=QA+Engineer" alt="Typing SVG" /></a>
   </div>
   <div style="display: flex; justify-content: center;">
     <a href="https://www.linkedin.com/in/ryanharden-dev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanharden-dev"></a>
@@ -27,8 +27,6 @@ Skills & Technologies: Python, JavaScript, HTML, CSS, React, Redux, Express, Fla
   <a href="#"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Render-333333?style=flat-square&logo=Render&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"></a>
-
-I have produced several high-fidelity projects applying my knowledge of the PERN stack, including a pixel-perfect Amazon clone that leverages AWS S3 to implement efficient user image uploads. Additionally I designed a meticulous SoundCloud clone that I built with a group of engineers to replicate a seamless audio streaming web service.
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanharden&show_icons=true&theme=dark)
 
